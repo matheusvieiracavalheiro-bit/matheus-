@@ -1,20 +1,33 @@
-body{
-    background-color: aqua
-}
-h1;{
-    colgroup 
-     font-style::-webkit-validation-bubble-arrow-clipper
+ody {
+    background-color: rgb(230, 10, 197);
+    text-align: center;
 }
 
-p{
-      color: aliceblue
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(199, 199, 18);
 }
-h2;{ 
-     colgroup
+
+h2 {
+    font-style: italic;
+    color: rgb(9, 246, 211);
 }
-h3{
-    color: 
+
+.img1 {
+    width: 50%;
+    text-align: center;
 }
-h4{ 
-      color: blue
-};
+
+h3 {
+    font-style: italic;
+    color: rgb(46, 10, 227);
+}
+
+.lista {
+    text-align: left;
+    font-style: italic;
+    text-decoration: overline;
+    color: ghostwhite;
+}
+
